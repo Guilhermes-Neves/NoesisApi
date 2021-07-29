@@ -1,0 +1,1 @@
+Para executar esse projeto, é apenas necessário o visual studio 2019, abrir o arquivo TesteNoesisAPI.sln e iniciar a execução dos testes.
